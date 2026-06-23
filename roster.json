@@ -1,0 +1,24 @@
+{
+  "team": "Team Swift",
+  "roster": [
+    {
+      "name": "Ozzy",
+      "role": "Captain / Freestyler",
+      "imagePath": "https://raw.githubusercontent.com/einOzzy/team-swift-data/main/images/ozzy.jpg",
+      "socials": [
+        { "platform": "Twitter", "url": "https://twitter.com/einozzy" },
+        { "platform": "YouTube", "url": "https://youtube.com/einOzzy" },
+        { "platform": "Twitch", "url": "https://twitch.tv/einOzzy" }
+      ]
+    },
+    {
+      "name": "Hudson",
+      "role": "Editor / Freestyler",
+      "imagePath": "https://raw.githubusercontent.com/YourUsername/team-swift-data/main/images/hudson.jpg",
+      "socials": [
+        { "platform": "Twitter", "url": "https://twitter.com/hudson" },
+        { "platform": "Instagram", "url": "https://instagram.com/hudson" }
+      ]
+    }
+  ]
+}
