@@ -1,19 +1,7 @@
 {
   "team": "Team Lucent",
   "roster": [
-    {
-      "name": "Lucent Ozzy",
-      "role": "Lead Developer",
-      "imagePath": "https://raw.githubusercontent.com/einOzzy/team-swift-data/main/images/lucent_ozzy.png",
-      "countryCode": "DE",
-      "socials": [
-        { "platform": "Twitter", "url": "https://twitter.com/einOzzy" },
-        { "platform": "YouTube", "url": "https://youtube.com/einOzzy" },
-        { "platform": "Twitch", "url": "https://twitch.tv/einOzzy" },
-        { "platform": "Discord", "url": "https://discordapp.com/users/einOzzy" },
-        { "platform": "Instagram", "url": "https://www.instagram.com/einOzzy" }
-      ]
-    },
+
     {
       "name": "Lucent Micro",
       "role": "Founder",
@@ -31,6 +19,19 @@
       "countryCode": "GB",
       "socials": [
         { "platform": "TikTok", "url": "https://www.tiktok.com/@lyoszn?lang=en&is_from_webapp=1&sender_device=mobile&sender_web_id=7601673116964357640" }
+      ]
+    },
+        {
+      "name": "Lucent Ozzy",
+      "role": "Lead Developer",
+      "imagePath": "https://raw.githubusercontent.com/einOzzy/team-swift-data/main/images/lucent_ozzy.png",
+      "countryCode": "DE",
+      "socials": [
+        { "platform": "Twitter", "url": "https://twitter.com/einOzzy" },
+        { "platform": "YouTube", "url": "https://youtube.com/einOzzy" },
+        { "platform": "Twitch", "url": "https://twitch.tv/einOzzy" },
+        { "platform": "Discord", "url": "https://discordapp.com/users/einOzzy" },
+        { "platform": "Instagram", "url": "https://www.instagram.com/einOzzy" }
       ]
     },
     {
